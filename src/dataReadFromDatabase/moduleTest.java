@@ -12,6 +12,6 @@ public class moduleTest {
     {
 //        System.out.printf("");System.out.print("hello world");
     System.out.print("hello world");
-
+        System.out.print("hello world");
     }
 }
