@@ -5,13 +5,11 @@ package dataReadFromDatabase;
  */
 
 
-
-
 public class moduleTest {
     public static void main(String[] args)
     {
 //        System.out.printf("");System.out.print("hello world");
-    System.out.print("hello world");
+        System.out.print("hello world");
         System.out.print("hello world");
     }
 }
